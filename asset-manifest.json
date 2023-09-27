@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_recipes/food_delivery_4.1/static/css/main.83b22e68.css",
+    "main.js": "/react_recipes/food_delivery_4.1/static/js/main.c4ef0aa5.js",
+    "static/media/empty-cart.webp": "/react_recipes/food_delivery_4.1/static/media/empty-cart.19a6e8e28157ae3cfdca.webp",
+    "index.html": "/react_recipes/food_delivery_4.1/index.html",
+    "main.83b22e68.css.map": "/react_recipes/food_delivery_4.1/static/css/main.83b22e68.css.map",
+    "main.c4ef0aa5.js.map": "/react_recipes/food_delivery_4.1/static/js/main.c4ef0aa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83b22e68.css",
+    "static/js/main.c4ef0aa5.js"
+  ]
+}
